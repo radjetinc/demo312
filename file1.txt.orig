@@ -1,0 +1,10 @@
+Line1
+Line2
+Line3
+Line4
+<<<<<<< HEAD
+Line5 update-1
+Line6
+=======
+Line5 update-1 update-2 update-3
+>>>>>>> bb6a4d89705efc3a52bf67033fbe953136c20161
